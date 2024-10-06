@@ -21,6 +21,8 @@ import RecentNotes from "./RecentNotes"
 import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 
+import CustomFooter from "./CustomFooter"
+
 export {
   ArticleTitle,
   Content,
@@ -44,4 +46,6 @@ export {
   NotFound,
   Breadcrumbs,
   Comments,
+
+  CustomFooter,
 }
