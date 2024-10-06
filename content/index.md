@@ -1,1 +1,6 @@
-[[Welcome]]
+---
+title: "~"
+---
+
+
+[[Elsewhere on the Internet]]
